@@ -1,4 +1,4 @@
 # GamePublish
 A template repository to publish games
 
-[Coin Dash](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/player_scene/)
+[Coin Dash](https://github.com/WCU-CS-CooperLab/demo-games-michaelxmyers/tree/main/main_scene)
