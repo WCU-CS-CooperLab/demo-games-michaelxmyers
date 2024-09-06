@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://daqql3npxrcd"
-path="res://.godot/imported/CoinDash.icon.png-492e9ccacd46e9cf72c25f942e9118d6.ctex"
+uid="uid://ce2a0db4ox77a"
+path="res://.godot/imported/CoinDash.icon.png-ee117c93bc646231b132d387ea817195.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sep_4/CoinDash.icon.png"
-dest_files=["res://.godot/imported/CoinDash.icon.png-492e9ccacd46e9cf72c25f942e9118d6.ctex"]
+source_file="res://almost_done_CoinDash/CoinDash.icon.png"
+dest_files=["res://.godot/imported/CoinDash.icon.png-ee117c93bc646231b132d387ea817195.ctex"]
 
 [params]
 

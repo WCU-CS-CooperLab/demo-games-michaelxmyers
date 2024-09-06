@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1owb6kbkwyot"
-path="res://.godot/imported/CoinDash.apple-touch-icon.png-d4c1fbd39691917b3c6dfd1ecfa4e8c8.ctex"
+uid="uid://britnveeyfkf0"
+path="res://.godot/imported/CoinDash.apple-touch-icon.png-30f705e940c3219b7bb1ef99c7781172.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sep_4/CoinDash.apple-touch-icon.png"
-dest_files=["res://.godot/imported/CoinDash.apple-touch-icon.png-d4c1fbd39691917b3c6dfd1ecfa4e8c8.ctex"]
+source_file="res://almost_done_CoinDash/CoinDash.apple-touch-icon.png"
+dest_files=["res://.godot/imported/CoinDash.apple-touch-icon.png-30f705e940c3219b7bb1ef99c7781172.ctex"]
 
 [params]
 
