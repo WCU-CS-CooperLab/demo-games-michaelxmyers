@@ -1,5 +1,5 @@
 # GamePublish
 A template repository to publish games
 
-[Coin Dash](main_scene)
+[Coin Dash](https://github.com/WCU-CS-CooperLab/demo-games-michaelxmyers/tree/main/main_scene)
 [Space Rocks]
