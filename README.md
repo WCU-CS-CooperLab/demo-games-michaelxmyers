@@ -1,5 +1,8 @@
 # GamePublish
 A template repository to publish games
+[CoinDash](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedCoinDash/)
+[Space Rocks](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep16/)
+
 # Project 1
 
 ### Phase I
@@ -9,4 +12,3 @@ A template repository to publish games
 [CoinDashPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedCoinDashPhase2/)
 
 
-[Space Rocks](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep16/)
