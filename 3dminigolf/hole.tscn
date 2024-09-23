@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://cdp473j5l0062"]
+
+[ext_resource type="MeshLibrary" uid="uid://g7rie4nh5rkf" path="res://assets/golf_tiles.tres" id="1_ko1o0"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_ifd7t"]
+rough = true
+bounce = 0.5
+
+[node name="Hole" type="Node3D"]
+
+[node name="GridMap" type="GridMap" parent="."]
+mesh_library = ExtResource("1_ko1o0")
+physics_material = SubResource("PhysicsMaterial_ifd7t")
+cell_size = Vector3(1, 1, 1)
+data = {
+"cells": PackedInt32Array(0, 0, 20, 0, 1, 20, 0, 65535, 20, 0, 65534, 20, 0, 2, 20, 1, 65535, 655380, 1, 65534, 655380, 1, 0, 655380, 1, 1, 655380, 1, 2, 655380)
+}
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.159364, 0.499456, -0.851556, -0.0918756, 0.866339, 0.490933, 0.982935, 1.51598e-08, 0.183951, -1.43551, 2.25566, 0)
