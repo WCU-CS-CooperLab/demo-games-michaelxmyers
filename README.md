@@ -3,7 +3,7 @@ A template repository to publish games
 
 [CoinDash](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedCoinDash/)
 
-[Space Rocks](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/pauseFunctionWorks/)
+[Space Rocks](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedSpaceRocks/)
 
 [Mini Golf](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/3dminigolf/)
 
