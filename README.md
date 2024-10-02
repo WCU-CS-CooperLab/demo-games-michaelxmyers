@@ -7,6 +7,8 @@ A template repository to publish games
 
 [Mini Golf](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep27/)
 
+[Jungle Jump](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep30/)
+
 # Project 1
 
 ### Phase I
