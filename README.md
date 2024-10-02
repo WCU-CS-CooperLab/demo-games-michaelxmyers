@@ -5,7 +5,7 @@ A template repository to publish games
 
 [Space Rocks](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedSpaceRocks/)
 
-[Mini Golf](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/3dminigolf/)
+[Mini Golf](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep27/)
 
 # Project 1
 
