@@ -23,7 +23,7 @@ A template repository to publish games
 [SpaceRocksPhaseI](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedSpaceRocks/)
 
 ### Phase 2
-[SpaceRocksPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedSpaceRocks/)
+[SpaceRocksPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/spaceRocksPhase2/)
 
 
 
