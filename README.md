@@ -9,6 +9,8 @@ A template repository to publish games
 
 [Jungle Jump](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/sep30/)
 
+[Infinite Flyer](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedInfiniteFlyer/)
+
 # Project 1
 
 ### Phase I
