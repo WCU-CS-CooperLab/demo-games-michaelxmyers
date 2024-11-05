@@ -33,7 +33,8 @@ A template repository to publish games
 [infiniteFlyerPhaseI](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedInfiniteFlyer/)
 
 ### Phase 2
-[infiniteFlyerPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/spaceRocksPhase2/)
+[infiniteFlyerPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/infiniteFlyerPhase2/)
+
 
 
 
