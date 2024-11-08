@@ -27,5 +27,14 @@ A template repository to publish games
 ### Phase 2
 [SpaceRocksPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/spaceRocksPhase2/)
 
+# Project 3
+
+### Phase I
+[infiniteFlyerPhaseI](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/finishedInfiniteFlyer/)
+
+### Phase 2
+[infiniteFlyerPhaseII](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/infiniteFlyerPhase2/)
+
+
 
 
