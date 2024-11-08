@@ -37,7 +37,7 @@ A template repository to publish games
 
 # Team Project 1
 
-[
+[TheTreasureBeyondTheStone](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/treasureBeyond/)
 
 
 
