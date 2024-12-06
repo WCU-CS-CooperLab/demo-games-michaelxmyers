@@ -41,7 +41,7 @@ A template repository to publish games
 
 # Project 4 
 
-[QuizGame]()
+[QuizGame](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/)
 
 
 
