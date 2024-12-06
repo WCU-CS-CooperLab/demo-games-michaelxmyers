@@ -41,7 +41,12 @@ A template repository to publish games
 
 # Project 4 
 
-[QuizGame](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/)
+[QuizGameWidnows](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/quizProject4.exe)
+
+[QuizGameMac](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/quizProject4.zip)
+
+[QuizGameServer/Linux](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/quizProject4.x86_64)
+
 
 
 
