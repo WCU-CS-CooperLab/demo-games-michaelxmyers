@@ -47,6 +47,11 @@ A template repository to publish games
 
 [QuizGameServer/Linux](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/quizProject4.x86_64)
 
+# Team Project 2
+
+[WastelandWarriorsMac](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/Mac/WastelandWarriors.zip)
+[WastelandWarriorsPC](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/teamProject2/windows.zip)
+
 
 
 
