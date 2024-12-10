@@ -50,6 +50,7 @@ A template repository to publish games
 # Team Project 2
 
 [WastelandWarriorsMac](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/project4/Mac/WastelandWarriors.zip)
+
 [WastelandWarriorsPC](https://wcu-cs-cooperlab.github.io/demo-games-michaelxmyers/teamProject2/windows.zip)
 
 
